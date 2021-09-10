@@ -1,0 +1,5 @@
+skinparam backgroundColor #ffffff
+skinparam sequenceArrowThickness 2
+skinparam maxmessagesize 60
+skinparam ParticipantPadding 20
+skinparam BoxPadding 10
