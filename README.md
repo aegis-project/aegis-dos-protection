@@ -4,6 +4,11 @@
 
 > the open source (D)DoS prevention system
 
+[![Maintenance](https://img.shields.io/badge/Maintained-yes-success.svg)]()
+[![OS](https://img.shields.io/badge/OS-Linux-informational)]()
+[![Documentation Status](https://img.shields.io/badge/Documentation-passing-success)]()
+[![Version](https://img.shields.io/badge/Version-0.0.1-yellow)]()
+
 ![AEGIS](doc/img/aegis_logo_with_name.jpg)
 
 AEGIS aims to defend your system against denial-of-service attacks through efficient user-space packet processing. It is build during a software project at the TU Ilmenau.

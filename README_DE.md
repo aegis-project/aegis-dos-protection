@@ -4,6 +4,11 @@
 
 > das quelloffene (D)DoS-Präventionssystem
 
+[![Maintenance](https://img.shields.io/badge/Maintained-yes-success.svg)]()
+[![OS](https://img.shields.io/badge/OS-Linux-informational)]()
+[![Documentation Status](https://img.shields.io/badge/Documentation-passing-success)]()
+[![Version](https://img.shields.io/badge/Version-0.0.1-yellow)]()
+
 ![AEGIS](doc/img/aegis_logo_with_name.jpg)
 
 AEGIS zielt darauf ab, Ihr System gegen Denial-of-Service-Angriffe durch eine effiziente Verarbeitung von Paketen im Benutzerraum zu schützen. Es wurde im Rahmen eines Softwareprojektes an der TU Ilmenau entwickelt.
